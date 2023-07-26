@@ -1,1 +1,1 @@
-# jwt-auth
+# JWT AUTH - Node
